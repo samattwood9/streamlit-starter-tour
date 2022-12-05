@@ -1,0 +1,42 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "collab-coding-221207",
+  "steps": [
+    {
+      "file": "app/app.py",
+      "description": "This is a template we use to create prototypes using Python and a package called Streamlit, which lets us easily build interactive dashboards. However, that isn't really important for the purposes of this lecture. We're more interested in the steps we've taken here to aid collaboration.",
+      "line": 15
+    },
+    {
+      "file": "requirements.txt",
+      "description": "This is the requirements.txt file. We use this to note the python packages we're using on any given project. Having these in a file means we can store/track the required packages using version control, which makes working and collaborating on the code as a team much easier.",
+      "line": 2
+    },
+    {
+      "file": ".gitignore",
+      "description": "This is the .gitignore file. As the name suggests, we list things we want to ignore in here, and consequently they are not stored / tracked under version control. We might be useful to do this if files are too large or not relevant to a project.",
+      "line": 1
+    },
+    {
+      "file": ".pre-commit-config.yaml",
+      "description": "This the .pre-commit-config.yaml file. It less us specify certain checks, which are then enforced automatically. Search 'pre-commit framework' to learn more.",
+      "line": 21
+    },
+    {
+      "file": ".pre-commit-config.yaml",
+      "description": "This section automatically applies the flake8 linter for python.",
+      "line": 20
+    },
+    {
+      "file": ".pre-commit-config.yaml",
+      "description": "This hook specifies that the black formatter for python should also be checked for.",
+      "line": 15
+    },
+    {
+      "file": ".pre-commit-config.yaml",
+      "description": "In addition to making checks locally, before or 'pre' commits, we can also make checks as changes are pushed to a remote repository and shared with collaboraters (this is called ci, which stands for continious integration).",
+      "line": 10
+    }
+  ],
+  "ref": "main"
+}
