@@ -1,3 +1,5 @@
+**Note:** This version includes a code tour and is not being actively developed. The original template repository is here: https://github.com/samattwood9/streamlit-starter.
+
 # Streamlit starter
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samattwood9-streamlit-starter-appapp-3hz6un.streamlit.app) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
