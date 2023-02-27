@@ -1,4 +1,4 @@
-**Note:** This version includes a code tour and is not being actively developed. It is an additional resource for lecture on collaborative coding (05/12/2022). The original template repository is here: https://github.com/CMDT/streamlit-starter.
+**Note:** This version includes a code tour and is not being actively developed. It is an additional resource for a guest lecture on collaborative coding (05/12/2022). The original template repository is here: https://github.com/CMDT/streamlit-starter.
 
 # Streamlit starter
 
